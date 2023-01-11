@@ -1,1 +1,1 @@
-为澪Ultimate制作的forge1.12.2加载进度
+为澪Ultimate制作的forge1.12.2加载进度基于项目https://github.com/AlexIIL/CustomLoadingScreen
