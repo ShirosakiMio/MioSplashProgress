@@ -1,0 +1,16 @@
+[
+{
+  "modid": "splashprogress",
+  "name": "SplashProgress",
+  "description": "加载界面进度条",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ShirosakiMio"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
